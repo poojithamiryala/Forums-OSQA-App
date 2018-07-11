@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.container{
+  width: 50%;
+  padding-top: 50px;
+  padding-right: 15px;
+  padding-left: 15%;
+  float: left;
+
+}
+.container-right{
+  padding-top: 60px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: right;
+  width:28%;
+}
+.tips
+{
+  background-color:lightblue;
+  border-color: aliceblue;
+  padding: 5px;
+}
+.tips-title
+{
+  color: brown;
+  padding-left: 20px;
+}
+.form-group
+{
+   padding-top: 2.5%; 
+  /* padding-bottom: 15px; */
+}
+
+.form-control
+{
+  width: 75%;
+}
+
+.desc-title
+{
+ font-size: 50%;
+ color: darkgray;
+ font-style: italic;
+}
+.titles
+{
+font-size: 70%;
+ color:black;
+ font-weight: bold;
+ width: 20%;
+ float: left;
+}
+.form
+{
+  width: 65%;
+  float: right;
+}
+.post-control
+{
+  padding-top: 15px;
+}
+.post-content
+{
+  border: 1px solid lightgrey;
+  background-color: lightgrey;
+}
+.hide
+{
+  color: grey;
+  font-size: 50%;
+}
+.submit{
+  background-color:black;
+  padding: 5px;
+  text-align: center;
+  border-radius: 10px;
+  width: 100px;
+  color: white;
+}
+.form-button
+{
+  padding-left: 45%;
+  padding-right: 45%;
+}

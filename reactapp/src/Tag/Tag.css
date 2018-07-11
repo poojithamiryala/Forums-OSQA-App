@@ -1,0 +1,26 @@
+.container15
+{
+    width:80%;
+    float: right;
+    padding-top: 100px;
+}
+.container16
+{
+    float: left;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+}
+.grid-container {
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    border: 1px solid black;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+  }

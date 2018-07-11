@@ -1,0 +1,46 @@
+ 
+
+.form-login {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.Login {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+.login-form
+{
+    border:3px solid black;
+}
+.container3{
+    width: 50%;
+    padding-top: 50px;
+    padding-right: 15px;
+    padding-left: 15%;
+    float: right;
+  
+  }
+  .form-group
+  {
+     padding-top: 2.5%; 
+    /* padding-bottom: 15px; */
+  }
+  .form-control
+  {
+    width: 75%;
+  }
+  .form-button
+  {
+    padding-left: 45%;
+    padding-right: 45%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }

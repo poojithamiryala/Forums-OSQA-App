@@ -1,0 +1,101 @@
+.w3-top {
+    top: 0;
+}
+.w3-top, .w3-bottom {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.w3-white, .w3-hover-white:hover {
+    color:white!important;
+    background-color:black;
+    letter-spacing:4px;
+}
+.w3-padding {
+    padding: 8px 16px!important;
+}
+.w3-right {
+    float: right!important;
+    padding-right: 20px;
+}
+.w3-left {
+    float: left!important;
+    width:35%;
+}
+.w3-card, .w3-card-2 {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.w3-bar {
+    width: 100%;
+    overflow: hidden;
+}
+
+.w3-bar .w3-button {
+    background-color: Transparent;
+    white-space: normal;
+    font-size: 100%; 
+    letter-spacing: 4px; 
+}
+.w3-bar .w3-bar-item {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    text-decoration: none;
+    display: block;
+    outline: 0;
+    color: white;
+}
+.w3-bar .w3-bar-item .active{
+    background-color:lightgrey; 
+    padding: 4px;
+}
+.search-container {
+    float: right;
+  }
+  
+  .search-container input[type=text] {
+    width:280px;
+    margin-top: 3px;
+    font-size: 17px;
+    height: 10%;
+  }
+  
+  .search-container button {
+    float: right;
+    width: 30px;
+    height: 26px;
+    margin-top: 3px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background: #ccc;
+  }
+.left-container
+{
+    padding-top: 50px;
+    padding-left: 15px;
+    float: left;
+    width:15%;
+    position: fixed;
+}
+.active
+{
+    background-color:lightgrey; 
+    padding: 4px;
+}
+.left-container li
+{
+    list-style-type: none;
+    padding: 5px;
+} 
+.left-container a
+{
+    text-decoration: none;
+    color: black;
+} 

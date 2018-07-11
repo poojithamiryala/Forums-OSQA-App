@@ -1,0 +1,121 @@
+.questionsComments
+{
+    padding-top: 100px;
+    float: right;
+    width:75%;
+}
+.container20
+{
+    float:left;
+    width:70%;
+}
+.container21
+{
+    float:right;
+    width:30%;
+}
+.container22
+{
+    float:left;
+    width:75%;
+    height:25%;
+    border-top:1px solid lightgrey;
+}
+.container23
+{
+    float:left;
+    width:20%;
+    border-bottom: 1px solid light grey;
+}
+.container23 button
+{
+    background-color: transparent;
+    border-color: transparent;
+    padding: 30px;
+}
+.container24
+{
+    float:right;
+    width:75%;
+    padding: 11px;
+    border-bottom: 1px solid light grey;
+}
+.container25
+{
+    float:left;
+    width:100%;
+    padding: 10px;
+}
+.container26
+{
+    float:left;
+    width:20%;
+    padding: 10px;
+    font-size: 60%;
+}
+.container27
+{
+    float:right;
+    font-size: 60%;
+}
+.container28
+{
+    float:left;
+   width:100%; 
+    font-size: 80%;
+}
+.container28 textarea
+{
+    float:left;
+   width:80%; 
+   border-radius: 3px;
+}
+.container28 button
+{
+    float:right;
+   width:15%; 
+
+   border-radius: 3px;
+}
+.container29
+{
+    float:left;
+   width:100%; 
+    font-size: 80%;
+}
+.container30
+{
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float:left;
+   width:100%; 
+    text-align: center;
+}
+.invis
+{
+    visibility: hidden;
+    display: none;
+}
+.container31
+{
+    float:left;
+    width:100%;
+    height:25%;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+}
+.container32
+{
+    float:left;
+    width:100%;
+    height:25%;
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+}
+.form-button4
+{
+      text-align:center;
+      padding: 20px;
+}

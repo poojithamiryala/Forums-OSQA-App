@@ -1,0 +1,10 @@
+a { cursor: pointer; }
+    ul{
+        background-color: 'red'
+    }
+    li{
+        border: '1px solid green'
+    }
+    a {
+        color: 'blue'
+    }
