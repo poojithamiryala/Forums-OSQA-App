@@ -15,6 +15,7 @@ django-webpack-loader==0.6.0
 djangorestframework==3.8.2
 djangorestframework-jwt==1.11.0
 et-xmlfile==1.0.1
+whitenoise==3.3.1
 gunicorn==19.9.0
 idna==2.7
 ipdb==0.11
