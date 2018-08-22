@@ -17,8 +17,6 @@ from django.conf import settings
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
@@ -29,7 +27,7 @@ SECRET_KEY = '5s_!6126m99omkj*xwa@uiq@5i!pb8l$ejtg7t=gf7*(0*#_sh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['osqa-app.herokuapp.com','127.0.0.1:8000']
+ALLOWED_HOSTS = []
 
 
 # Application definition
