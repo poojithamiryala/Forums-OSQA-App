@@ -12,7 +12,7 @@ django-debug-toolbar==1.9.1
 django-rest-auth==0.9.3
 django-rest-registration==0.3.12
 django-webpack-loader==0.6.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 et-xmlfile==1.0.1
 whitenoise==3.3.1
